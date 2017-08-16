@@ -8,6 +8,11 @@
   <name>SpringMyBatis Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  <dependency>
+    <groupId>org.mybatis</groupId>
+    <artifactId>mybatis</artifactId>
+    <version>3.2.1</version>
+</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

@@ -1,0 +1,2 @@
+# SpringMyBatis
+generation ssm

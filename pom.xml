@@ -46,7 +46,7 @@
         <version>1.2.4</version>
     </dependency>
     <!-- 
-    not found sqlsessionfactory
+    java.lang.ClassNotFoundException: org.mybatis.spring.SqlSessionFactoryBean
     	是没导入mybatis-spring
     Java.lang.NoClassDefFoundError: org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy
     	原因是项目没有导入spring-jdbc的jar包。

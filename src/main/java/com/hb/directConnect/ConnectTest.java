@@ -1,4 +1,4 @@
-package com.hb.dao;
+package com.hb.directConnect;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

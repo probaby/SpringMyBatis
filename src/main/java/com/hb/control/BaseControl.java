@@ -30,7 +30,7 @@ public class BaseControl {
 	private String list2(ModelMap model) {
 		String i = "0";
 		if(true) {
-//			i = baseService.getStringList();
+			i = baseService.getStringList();
 		}
 		 model.addAttribute("message", "Spring 3 MVC Hello World");    
 		return "hello";
